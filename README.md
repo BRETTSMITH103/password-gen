@@ -1,1 +1,1 @@
-# password-gen
+This is a Random number genrator. The user selects what itmes besides lowercase letters he/she wants to use. 
